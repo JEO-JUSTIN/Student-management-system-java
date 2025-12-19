@@ -23,3 +23,6 @@ A console-based Student Management System implemented in Java.
 - Apply OOPS principles (Encapsulation, Abstraction)
 - Database integration
 - Exception handling improvements
+
+## Run By
+-java Main
