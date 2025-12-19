@@ -24,5 +24,4 @@ A console-based Student Management System implemented in Java.
 - Database integration
 - Exception handling improvements
 
-## Run By
--java Main
+
